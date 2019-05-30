@@ -33,7 +33,7 @@
     {"owner": "ros2", "name": "sros2"},
     {"owner": "ros2", "name": "system_tests"},
     {"owner": "ros2", "name": "test_interface_files"},
-    {"owner": "ros2", "name": "unique_identifier_msgs"},
+    {"owner": "ros2", "name": "unique_identifier_msgs"}
   ],
   "columns": [
     {
