@@ -1,0 +1,60 @@
+{
+  "repositories": [
+    {"owner": "ros2", "name": "common_interfaces"},
+    {"owner": "ros2", "name": "demos"},
+    {"owner": "ros2", "name": "examples"},
+    {"owner": "ros2", "name": "example_interfaces"},
+    {"owner": "ros2", "name": "launch"},
+    {"owner": "ros2", "name": "launch_ros"},
+    {"owner": "ros2", "name": "rcl"},
+    {"owner": "ros2", "name": "rcl_interfaces"},
+    {"owner": "ros2", "name": "rcl_logging"},
+    {"owner": "ros2", "name": "rclcpp"},
+    {"owner": "ros2", "name": "rclpy"},
+    {"owner": "ros2", "name": "rcpputils"},
+    {"owner": "ros2", "name": "rcutils"},
+    {"owner": "ros2", "name": "realtime_support"},
+    {"owner": "ros2", "name": "rmw"},
+    {"owner": "ros2", "name": "rmw_connext"},
+    {"owner": "ros2", "name": "rmw_fastrtps"},
+    {"owner": "ros2", "name": "rmw_implementation"},
+    {"owner": "ros2", "name": "rmw_opensplice"},
+    {"owner": "ros2", "name": "ros1_bridge"},
+    {"owner": "ros2", "name": "ros2cli"},
+    {"owner": "ros2", "name": "rosbag2"},
+    {"owner": "ros2", "name": "rosidl"},
+    {"owner": "ros2", "name": "rosidl_dds"},
+    {"owner": "ros2", "name": "rosidl_defaults"},
+    {"owner": "ros2", "name": "rosidl_python"},
+    {"owner": "ros2", "name": "rosidl_typesupport"},
+    {"owner": "ros2", "name": "rosidl_typesupport_connext"},
+    {"owner": "ros2", "name": "rosidl_typesupport_fastrtps"},
+    {"owner": "ros2", "name": "rosidl_typesupport_opensplice"},
+    {"owner": "ros2", "name": "sros2"},
+    {"owner": "ros2", "name": "system_tests"},
+    {"owner": "ros2", "name": "test_interface_files"},
+    {"owner": "ros2", "name": "unique_identifier_msgs"},
+  ],
+  "columns": [
+    {
+      "name": "Inbox",
+      "state": "open",
+      "label": null
+    },
+    {
+      "name": "In progress",
+      "state": "open",
+      "label": "in progress"
+    },
+    {
+      "name": "In review",
+      "state": "open",
+      "label": "in progress"
+    },
+    {
+      "name": "Done",
+      "state": "closed",
+      "label": null
+    }
+  ]
+}
